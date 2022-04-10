@@ -1,11 +1,10 @@
-import { Directive,ElementRef,HostListener} from '@angular/core';
+import { Directive } from '@angular/core';
 
 @Directive({
-  selector: '[appStrikethrough]'
+  selector: '[appStrrikethrough]'
 })
-export class StrikethroughDirective {
+export class StrrikethroughDirective {
 
-    
   constructor(private elem:ElementRef){}
 
   @HostListener("click") onClicks(){
@@ -20,4 +19,7 @@ export class StrikethroughDirective {
     this.elem.nativeElement.style.textDecoration=action;
 
   }
+}
+
+
 }

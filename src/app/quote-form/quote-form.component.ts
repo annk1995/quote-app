@@ -1,4 +1,5 @@
 import { Component, OnInit, Output, EventEmitter } from'@angular/core'
+import { NgForm } from '@angular/forms';
 import { Quote } from '../quote';
 
 @Component({

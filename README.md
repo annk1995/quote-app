@@ -1,6 +1,17 @@
 # QuoteApp
+quote app
+angular project week one
+##Author
+kabui kariuki
+#Table of content
+Description
+BDD
+Installation Requirements
+Languages and Frameworks used
+Reference
+Author's Info
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+
 
 ## Development server
 

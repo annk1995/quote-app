@@ -4,6 +4,8 @@ quote app
 
 angular project week one
 
+Live link
+
 https://annk1995.github.io/quote-app/
 
 ###AUTHOR

@@ -20,6 +20,9 @@ Reference
 
 Author's Info
 
+##Description
+
+this an angular application that helps post motivational quotes and also you can read quotes from other people
 
 
 ## Development server

@@ -4,10 +4,10 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { QuoteComponent } from './quote/quote.component';
 import { QuoteDetailComponent } from './quote-detail/quote-detail.component';
-import { QuoteFormComponent } from './quote-form/quote-form.component';
-import { Strikethrough } from './strikethrough.directive/strikethrough.directive.component';
+import { QuoteFormComponent } from './quote-form/quote-form.component'
 import { StrrikethroughDirective } from './strrikethrough.directive';
 import { DateCountPipe } from './date-count.pipe';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -15,12 +15,12 @@ import { DateCountPipe } from './date-count.pipe';
     QuoteComponent,
     QuoteDetailComponent,
     QuoteFormComponent,
-    Strikethrough.DirectiveComponent,
-    StrrikethroughDirective,
+   StrrikethroughDirective,
     DateCountPipe
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

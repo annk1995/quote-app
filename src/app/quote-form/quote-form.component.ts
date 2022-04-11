@@ -1,6 +1,5 @@
-import { Component, OnInit, Output, EventEmitter } from'@angular/core'
-import { NgForm } from '@angular/forms';
-import { Quote } from '../quote';
+import { Component, OnInit, Output,EventEmitter } from '@angular/core';
+import { Quote } from 'src/app/quote';
 
 @Component({
   selector: 'app-quote-form',
@@ -8,27 +7,18 @@ import { Quote } from '../quote';
   styleUrls: ['./quote-form.component.css']
 })
 export class QuoteFormComponent implements OnInit {
-  newQuote = new Quote(0,"","",new Date());
-@Output() addQuote = new EventEmitter<Quote>();
+  newQuote = new Quote(0, "","", new Date());
+  @Output() addQuote = new EventEmitter<Quote>(); 
 
-  submitQuote(){
-  this.addQuote.emit(this.newQuote);
+   submitQuote(){
+  let me =  this.addQuote.emit(this.newQuote);
+  alert('Amazing! Thanks for adding a new Quote. Check below to see your amazing Quote!')
   }
-  
+
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
-  list:any[]=[];
-  addItem(item:string)
-  {
-    console.warn(item);
-    this.list.push({id:this.list.length,name:item})
-   
-  }
-  removeTask(id:number)
-  {
-    this.list=this.list.filter(item=>item.id!==id);
-  }
+
 }
 

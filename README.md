@@ -1,12 +1,14 @@
 # QuoteApp
+
 quote app
+
 angular project week one
 
-##Author
+AUTHOR
 
 kabui kariuki
 
-##Table of content
+TABLE OF CONTENT
 
 Description
 
@@ -20,7 +22,7 @@ Reference
 
 Author's Info
 
-##Description
+DESCRIPTION
 
 this an angular application that helps post motivational quotes and also you can read quotes from other people
 

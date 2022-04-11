@@ -4,6 +4,8 @@ quote app
 
 angular project week one
 
+https://annk1995.github.io/quote-app/
+
 AUTHOR
 
 kabui kariuki
@@ -26,10 +28,20 @@ DESCRIPTION
 
 this an angular application that helps post motivational quotes and also you can read quotes from other people
 
+BDD
 
-## Development server
+The user should:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Click the expand button to see more options
+
+Choose to like,dislike or delete a quote
+
+Enter their desired Quote and details
+
+Submit
+
+A pop will show notifying the user their Quote has been added
+
 
 ## Code scaffolding
 

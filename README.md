@@ -1,4 +1,4 @@
-# QuoteApp
+### QuoteApp
 
 quote app
 
@@ -6,11 +6,11 @@ angular project week one
 
 https://annk1995.github.io/quote-app/
 
-AUTHOR
+###AUTHOR
 
 kabui kariuki
 
-TABLE OF CONTENT
+##TABLE OF CONTENT
 
 Description
 
@@ -24,11 +24,11 @@ Reference
 
 Author's Info
 
-DESCRIPTION
+##DESCRIPTION
 
 this an angular application that helps post motivational quotes and also you can read quotes from other people
 
-BDD
+##BDD
 
 The user should:
 
@@ -57,7 +57,7 @@ Make sure you have access to all the linked cdns and fonts
 Launch the website using a local live server to view on the web
 
 
-Languages and Frameworks Used
+##Languages and Frameworks Used
 
 HTML
 

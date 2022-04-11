@@ -34,14 +34,6 @@ The user should:
 
 Click the expand button to see more options
 
-Languages and Frameworks Used
-HTML
-
-CSS
-
-TYPESCRIPT
-
-ANGULAR
 
 
 
@@ -63,4 +55,16 @@ Extract zip to our working directory and open using favorite text editor
 Make sure you have access to all the linked cdns and fonts
 
 Launch the website using a local live server to view on the web
+
+
+Languages and Frameworks Used
+
+HTML
+
+CSS
+
+TYPESCRIPT
+
+ANGULAR
+
 

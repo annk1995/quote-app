@@ -1,9 +1,11 @@
 # QuoteApp
 quote app
 angular project week one
+
 ##Author
 kabui kariuki
-#Table of content
+
+##Table of content
 Description
 BDD
 Installation Requirements

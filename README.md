@@ -67,4 +67,11 @@ TYPESCRIPT
 
 ANGULAR
 
+##REFERENCE
+Stack overflow
 
+Web Development Fundamentals w3Schools
+
+##AUTHORS INFO
+
+KABUI.KARIUKI@MORINGA.STUDENT.COM

@@ -3,14 +3,21 @@ quote app
 angular project week one
 
 ##Author
+
 kabui kariuki
 
 ##Table of content
+
 Description
+
 BDD
+
 Installation Requirements
+
 Languages and Frameworks used
+
 Reference
+
 Author's Info
 
 

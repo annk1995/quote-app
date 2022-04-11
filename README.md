@@ -34,6 +34,17 @@ The user should:
 
 Click the expand button to see more options
 
+Languages and Frameworks Used
+HTML
+
+CSS
+
+TYPESCRIPT
+
+ANGULAR
+
+
+
 Choose to like,dislike or delete a quote
 
 Enter their desired Quote and details

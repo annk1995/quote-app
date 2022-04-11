@@ -43,9 +43,15 @@ Submit
 A pop will show notifying the user their Quote has been added
 
 
-## Code scaffolding
+##INSTALLATION REQUIREMENTS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Fork this repo and download the resulting zip file
+
+Extract zip to our working directory and open using favorite text editor
+
+Make sure you have access to all the linked cdns and fonts
+
+Launch the website using a local live server to view on the web
 
 ## Build
 

@@ -9,9 +9,9 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote(1, 'George Eliot', 'It is never too late to be what you might have been.', new Date(2021,12,9)),
-    new Quote(2,'Maya Angelou','There is no greater agony than bearing an untold story inside you.',new Date(2021,12,21)),
-    new Quote(3,'J.K. Rowling','To the well-organized mind, death is but the next great adventure.',new Date(2022,1,12)),
+    new Quote(1, 'George Eliot', 'It is never too late to be what you might have been.', new Date(2022,12,9)),
+    new Quote(2,'Maya Angelou','There is no greater agony than bearing an untold story inside you.',new Date(2022,12,21)),
+    new Quote(3,'J.K. Rowling','To the well-organized mind, death is but the next great adventure.',new Date(2022,1,11)),
     new Quote(4,'Winston S. Churchill','Success is not final, failure is not fatal: it is the courage to continue that counts.',new Date(2022,3,8)),
     
   ];
